@@ -60,6 +60,13 @@
 2. 清晰的语言表达能力；
 3. 独立的思考能力和求证能力。
 
+###### 贡献内容
+
+编写方法请参考 <a herf="">此页面</a>
+
+
+
+
 ### 部署
 
 本项目使用ReadTheDocs部署，如有本地部署需要请参考
@@ -78,8 +85,8 @@ filetree
 ├── /docs/
 │  ├── requirements.txt
 |  ├──/xxxxx/
-│  │  ├── xxxxxxx.md
-│  │  └── xxxxxxx.md
+│  │  ├── xxxxxxx.srt
+│  │  └── xxxxxxx.srt
 
 ```
 
