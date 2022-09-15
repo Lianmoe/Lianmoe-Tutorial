@@ -1,13 +1,13 @@
-##欢迎来到联萌教程项目！ 
+## 欢迎来到联萌教程项目！ 
 
 本项目包含Minecraft的相关内容。 
 
-##目录 
+## 目录 
 
 [暂无](#暂无) 
  
  
-##贡献内容 
+## 贡献内容 
 
-您可以 在<a herf="https://github.com/Lianmoe/Lianmoe-Tutorial">Github</a> 上找到我们的仓库！ 
+您可以在 <a herf="https://github.com/Lianmoe/Lianmoe-Tutorial">Github</a> 上找到我们的仓库！ 
 
