@@ -2,8 +2,6 @@
 
 # 联萌社区教程项目
 
-Lianmoe-Tutorial
-
 <!-- PROJECT SHIELDS -->
 
 [![Contributors][contributors-shield]][contributors-url]
