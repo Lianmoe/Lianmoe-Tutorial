@@ -19,7 +19,7 @@ Lianmoe-Tutorial
 
 <p align="center">
   <a href="https://github.com/Zachery-Liu/Lianmoe-Tutorial/">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/favicon.ico" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">联萌社区教程项目</h3>
