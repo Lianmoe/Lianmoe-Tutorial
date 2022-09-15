@@ -27,11 +27,11 @@
     <a href="https://lianmoe-tutorial.readthedocs.io/zh_CN/latest/"><strong>直接前往教程文档 »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/shaojintian/Best_README_template">查看Demo</a>
+    <a href="https://github.com/Lianmoe/Lianmoe-Tutorial">查看Demo</a>
     ·
-    <a href="https://github.com/shaojintian/Best_README_template/issues">报告文档中的问题</a>
+    <a href="https://github.com/Lianmoe/Lianmoe-Tutorial/issues">报告文档中的问题</a>
     ·
-    <a href="https://github.com/shaojintian/Best_README_template/issues">提出您对本项目的建议</a>
+    <a href="https://github.com/Lianmoe/Lianmoe-Tutorial/issues">提出您对本项目的建议</a>
   </p>
 
 </p>
