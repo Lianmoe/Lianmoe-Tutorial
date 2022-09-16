@@ -12,11 +12,11 @@
    :includehidden:
    :caption: 前言
    
-   欢迎<index.rst>
+   欢迎 <index.rst>
    
-   教程<教程首页.md>
+   教程 <教程首页.md>
    
-   贡献<贡献首页.md>
+   贡献 <贡献首页.md>
 
 
 贡献内容
