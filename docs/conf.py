@@ -58,8 +58,8 @@ html_theme_options = {
         "开发结束前请勿参考任何内容!⚠️"
     ),
 }
-html_logo = "/images/Bookicon.png"
-html_favicon = "/images/Bookicon.ico"
+html_logo = "images/Bookicon.png"
+html_favicon = "images/Bookicon.ico"
 html_title = "联萌社区教程项目"
 
 # -- Options for EPUB output
