@@ -7,7 +7,7 @@ copyright = '2022, 联萌及所有贡献者'
 author = '由社区贡献'
 
 release = '0.1'
-version = '0.1.0'
+version = '1.0.0'
 
 # -- General configuration
 
