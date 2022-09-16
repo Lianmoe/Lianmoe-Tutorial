@@ -15,7 +15,9 @@
    :includehidden:
    :caption: 教程
 
-   入门教程 <tutorial-firstpage.md>
+   教程序言 <tutorial-firstpage.md>
+   教程 <tutorial/tutorial.md>
+   
 
 .. toctree::
    :maxdepth: 2
