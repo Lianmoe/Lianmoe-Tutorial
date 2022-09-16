@@ -11,4 +11,5 @@
 贡献内容
 --------
 
-您可以在 Github 上找到我们的仓库！
+您可以在 `Github <https://github.com/Lianmoe/Lianmoe-Tutorial>`_  上找到我们的仓库！
+您也可以在 `Gitee <https://gitee.com/Lianmoe/minecraft-community-tutorial>`_ 上找到我们！
