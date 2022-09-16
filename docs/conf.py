@@ -53,10 +53,10 @@ html_theme = 'sphinx_book_theme'
 html_theme_options = {
     "repository_url": "https://github.com/Lianmoe/Lianmoe-Tutorial",
     "use_repository_button": True,
-    "extra_navbar": "111"
+    "extra_navbar": ""
 }
-html_logo = "/images/Bookicon.webp"
-html_favicon = "/images/Bookicon.webp"
+html_logo = "/images/Bookicon.png"
+html_favicon = "/images/Bookicon.ico"
 html_title = "联萌社区教程项目"
 
 # -- Options for EPUB output
