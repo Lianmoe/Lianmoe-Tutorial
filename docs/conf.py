@@ -58,7 +58,7 @@ html_theme_options = {
 }
 html_logo = "/images/Bookicon.webp"
 html_favicon = "/images/Bookicon.webp"
-
+html_title = "联萌社区教程项目"
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
