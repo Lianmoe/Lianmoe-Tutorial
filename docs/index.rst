@@ -8,7 +8,7 @@
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :includehidden:
    :caption: 前言
    
