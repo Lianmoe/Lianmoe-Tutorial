@@ -11,13 +11,19 @@
 
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :includehidden:
    :caption: 教程
-      
-   入门教程 <教程首页.md>
-   
-   贡献 <贡献首页.md>
+
+   入门教程 <tutorial-firstpage.md>
+
+.. toctree::
+   :maxdepth: 2
+   :includehidden:
+   :caption: 内容提交指南
+
+   为社区做出贡献 <contribute-firstpage.md>
+   中文文案排版指北 <contributing/paiban.md>
 
 
 贡献内容
