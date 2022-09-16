@@ -25,6 +25,7 @@
    :caption: 内容提交指南
 
    为社区做出贡献 <contribute-firstpage.md>
+   指引 <contributing/guide.md>
    中文文案排版指北 <contributing/paiban.md>
 
 
