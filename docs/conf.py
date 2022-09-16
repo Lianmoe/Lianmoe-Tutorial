@@ -33,6 +33,8 @@ extensions = [
     'myst_parser'
 ]
 
+myst_enable_extensions = ["deflist"]
+
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
