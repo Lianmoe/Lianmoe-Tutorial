@@ -3,8 +3,7 @@
 
 这里是由公共维护的Minecraft教程，目前正在发展中…
 
-.. warning::
-本文档仍在测试阶段，请暂时不要参考本教程任何内容
+.. warning:: 本文档仍在测试阶段，请暂时不要参考本教程任何内容
 
 
 目录
@@ -12,13 +11,11 @@
 
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
    :includehidden:
-   :caption: 前言
-   
-   欢迎 <index.rst>
-   
-   教程 <教程首页.md>
+   :caption: 教程
+      
+   入门教程 <教程首页.md>
    
    贡献 <贡献首页.md>
 
