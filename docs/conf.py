@@ -4,7 +4,7 @@
 
 project = '联萌社区教程项目'
 copyright = '2022, 联萌及所有贡献者'
-author = '由社区贡献'
+author = '社区贡献者们'
 
 release = '0.1'
 version = '1.0.0'
