@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lianmoe Tutorial'
-copyright = '2022, Lianmoe'
-author = 'The Community'
+project = '联萌社区教程项目'
+copyright = '2022, 联萌及所有贡献者'
+author = '由社区贡献'
 
 release = '0.1'
 version = '0.1.0'
