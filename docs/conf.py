@@ -12,6 +12,18 @@ version = '1.0.0'
 # -- General configuration
 
 extensions = [
+    'sphinx.ext.duration',
+    'sphinx.ext.doctest',
+    'sphinx.ext.autodoc',
+    'sphinx.ext.autosummary',
+    'sphinx.ext.intersphinx',
+    'myst_parser',
+    'sphinxcontrib.mermaid'
+]
+
+myst_enable_extensions = [
+    "deflist",
+    "colon_fence",
     "amsmath",
     "colon_fence",
     "deflist",
@@ -24,16 +36,8 @@ extensions = [
     "smartquotes",
     "strikethrough",
     "substitution",
-    "tasklist",
-    'sphinx.ext.duration',
-    'sphinx.ext.doctest',
-    'sphinx.ext.autodoc',
-    'sphinx.ext.autosummary',
-    'sphinx.ext.intersphinx',
-    'myst_parser'
-]
-
-myst_enable_extensions = ["deflist"]
+    "tasklist"
+    ]
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
