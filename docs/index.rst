@@ -10,10 +10,15 @@
 .. toctree::
    :maxdepth: 2
    :caption: 前言
+   
    欢迎<index.rst>
+   
    :caption: 教程
+   
    教程<教程首页.md>
+   
    :caption: 贡献
+   
    贡献<贡献首页.md>
 
 
