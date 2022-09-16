@@ -31,8 +31,8 @@ Gitee的问题主要在于审核和不稳定（500错误）
 审核问题，暂时未受影响，实在不行再换平台。
 
 ## 如何参与编写 <br>
-文章使用Markdown语言，这是一种标记语言，简单且实用，不会Markdown的写手也不必担心，<br>
-可以使用[Stackedit在线编辑器](https://stackedit.cn/)，像编写Word文档一样按按钮编写即可  
+文章可以使用Markdown或reStructuredText语言，这是一种标记语言，简单且实用，不会这两种语法的写手也不必担心，<br>
+可以使用[Stackedit在线编辑器](https://stackedit.cn/)，像编写Word文档一样按按钮编写Markdown即可  
 
 具体的教程编写引导，请看这个教程
 
