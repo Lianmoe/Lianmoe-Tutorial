@@ -54,6 +54,9 @@ html_theme_options = {
     "repository_url": "https://github.com/Lianmoe/Lianmoe-Tutorial",
     "use_repository_button": True,
     "extra_navbar": ""
+    "announcement": ("⚠️本站正在开发中, "
+        "开发结束前请勿参考任何内容!⚠️"
+    ),
 }
 html_logo = "/images/Bookicon.png"
 html_favicon = "/images/Bookicon.ico"
