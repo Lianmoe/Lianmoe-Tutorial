@@ -8,7 +8,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![KOOK][Kook-shield]][Kook-url]
 [![Documentation Status](https://readthedocs.org/projects/lianmoe-tutorial/badge/?version=latest)](https://lianmoe-tutorial.readthedocs.io/zh_CN/latest/?badge=latest)
 
@@ -52,8 +51,6 @@ Gitee 的问题主要在于审核和不稳定（500 错误）
 [stars-url]: https://github.com/Zachery-Liu/Lianmoe-Tutorial/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Zachery-Liu/Lianmoe-Tutorial.svg?style=flat-square
 [issues-url]: https://img.shields.io/github/issues/Zachery-Liu/Lianmoe-Tutorial.svg
-[license-shield]: https://img.shields.io/github/license/Zachery-Liu/Lianmoe-Tutorial.svg?style=flat-square
-[license-url]: https://github.com/Zachery-Liu/Lianmoe-Tutorial/blob/master/LICENSE.txt
 [Kook-shield]: https://img.shields.io/static/v1?label=Kook&message=加入交流频道&color=green&style=flat-square
 [Kook-url]: https://kook.top/wtPZIy
 
