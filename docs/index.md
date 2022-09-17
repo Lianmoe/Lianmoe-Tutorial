@@ -62,3 +62,11 @@
 
 
 欢迎您加入我们的 [KOOK](https://kook.top/wtPZIy) 频道
+
+
+```{note}
+![CC](images/CC-BY-NC-SA.png)
+本站所有内容均使用许可协议 知识共享 署名-非商业性使用-相同方式共享 4.0<br>
+您在其他地方使用本站内容时，应当遵循此协议。<br>
+CC BY-NC-SA 4.0<br>
+```
