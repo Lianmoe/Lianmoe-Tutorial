@@ -17,15 +17,15 @@
 对于文件命名，请使用**有意义**的**英文**文件名。   
 错误的例子：<br>
 
-> 原版红石教程.md``<br>
+> 原版红石教程.md <br>
 
 正确的示范：<br>
 
 > vanilla-redstone-tutorial.md<br>
 
-如果您不知道对应英文，您也可以使用中文拼音，例如：<br>
+如果您不知道对应英文，您也可以使用中文拼音，例如： <br>
 
-> YuanBanHongShi.md<br>
+> YuanBanHongShi.md <br>
 
 
 
