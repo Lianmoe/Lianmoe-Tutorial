@@ -6,7 +6,7 @@
 对于格式，请您不要使用难以理解的、糟糕的排版逻辑。  
 
 ```{seealso}
-您可以参考 [中文文案排版指北](https://tutorial.lianmoe.cn/contributing/paiban.html) 。  
+您可以参考 [中文文案排版指北](https://tutorial.lianmoe.cn/zh_CN/latest/contributing/paiban.html) 。  
 ```
 
 对于不规范的语言，我们将给您提出修改建议并由您再次进行完善。  
