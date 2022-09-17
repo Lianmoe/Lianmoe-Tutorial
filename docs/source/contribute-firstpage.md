@@ -8,7 +8,7 @@
 请确保您使用的是规范的通用语言，避免出现方言词汇等。<br>
 对于格式，请您不要使用难以理解的、糟糕的排版逻辑。  
 
-```{tip}
+```{seealso}
 您可以参考 [中文文案排版指北](https://tutorial.lianmoe.cn/contributing/paiban.html) 。  
 ```
 
