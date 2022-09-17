@@ -11,7 +11,7 @@
 
 
 ```{toctree}
-   :maxdepth: 2
+   :maxdepth: 1
    :includehidden:
    :caption: 序言部分
 
@@ -39,7 +39,7 @@
 ```
 
 ```{toctree}
-   :maxdepth: 2
+   :maxdepth: 1
    :includehidden:
    :caption: 社区共建指南
 
