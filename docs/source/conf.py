@@ -18,7 +18,9 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
     'myst_parser',
-    'sphinxcontrib.mermaid'
+    'sphinxcontrib.mermaid',
+    'sphinx_togglebutton',
+    'sphinx_tabs.tabs'
 ]
 
 myst_enable_extensions = [

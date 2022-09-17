@@ -3,3 +3,5 @@ sphinx-book-theme
 myst-parser
 linkify-it-py
 sphinxcontrib-mermaid
+sphinx-tabs
+sphinx-togglebutton
