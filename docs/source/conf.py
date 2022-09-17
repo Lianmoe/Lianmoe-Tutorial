@@ -53,7 +53,9 @@ html_theme = 'sphinx_book_theme'
 html_theme_options = {
     "repository_url": "https://github.com/Lianmoe/Lianmoe-Tutorial",
     "use_repository_button": True,
-    "extra_navbar": ""
+    "extra_navbar": "",
+    "home_page_in_toc": True,
+    "show_navbar_depth": 1,
 }
 html_logo = "images/Bookicon.png"
 html_favicon = "images/Bookicon.ico"
