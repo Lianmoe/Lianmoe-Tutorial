@@ -65,7 +65,7 @@ html_theme_options = {
 html_logo = "images/Bookicon.png"
 html_favicon = "images/Bookicon.ico"
 html_title = "联萌社区教程项目"
-html_last_updated_fmt = ""
+html_last_updated_fmt = "此页面最后更新日期："
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
