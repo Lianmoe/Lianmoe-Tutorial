@@ -67,8 +67,8 @@ html_theme_options = {
     "use_edit_page_button": True,
     "use_issues_button": True,
      "announcement": (
-        "⚠️部分地区受 CloudFlare 及 运营商 网络"
-        "波动影响，加载速度可能较慢，望互相转告⚠️"
+        "⚠️受 CloudFlare 及 运营商 网络波动影响，"
+        "部分地区加载速度可能较慢，造成不便请您谅解⚠️"
         #banner 公告
     ),
 }
