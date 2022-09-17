@@ -53,15 +53,19 @@ templates_path = ['_templates']
 
 html_theme = 'sphinx_book_theme'
 html_theme_options = {
+    "path_to_docs": "docs",
     "repository_url": "https://github.com/Lianmoe/Lianmoe-Tutorial",
     "use_repository_button": True,
     "extra_navbar": "",
     "home_page_in_toc": True,
     "show_navbar_depth": 1,
+    "use_edit_page_button": True,
+    "use_issues_button": True,
 }
 html_logo = "images/Bookicon.png"
 html_favicon = "images/Bookicon.ico"
 html_title = "联萌社区教程项目"
+html_last_updated_fmt = ""
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
