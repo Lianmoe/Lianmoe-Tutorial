@@ -65,8 +65,8 @@
 
 
 ```{note}
-![CC](images/CC-BY-NC-SA.png)
-本站所有内容均使用许可协议 知识共享 署名-非商业性使用-相同方式共享 4.0<br>
-您在其他地方使用本站内容时，应当遵循此协议。<br>
-CC BY-NC-SA 4.0<br>
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh"><img alt="知识共享许可协议" style="border-width:0" src="images/CC-BY-NC-SA.png" /></a><br>
+联萌社区教程项目**所有内容**均使用许可协议 **知识共享 署名-非商业性使用-相同方式共享 4.0**<br>
+您在其他地方使用本项目中内容时，应当遵循此协议。<br>
+**CC BY-NC-SA 4.0**<br>
 ```
