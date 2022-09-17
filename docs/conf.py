@@ -61,6 +61,10 @@ html_theme_options = {
     "show_navbar_depth": 1,
     "use_edit_page_button": True,
     "use_issues_button": True,
+     "announcement": (
+        "⚠️部分地区受 CloudFlare 及 运营商 网络波动影响, "
+        "加载速度可能较慢，望互相转告⚠️"
+    ),
 }
 html_logo = "images/Bookicon.png"
 html_favicon = "images/Bookicon.ico"
