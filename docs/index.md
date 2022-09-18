@@ -43,9 +43,10 @@
 ```{toctree}
    :maxdepth: 1
    :includehidden:
-   :caption: 社区共建指南
+   :caption: 共建指南
 
    为社区做出贡献 <contributing/index.md>
+
 
 ```
 
