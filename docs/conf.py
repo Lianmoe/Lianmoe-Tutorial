@@ -65,6 +65,7 @@ html_theme = 'sphinx_book_theme'
 #book theme 超好看有没有）
 html_theme_options = {
     "path_to_docs": "docs",
+    "repository_branch": "master",
     "repository_url": "https://github.com/Lianmoe/Lianmoe-Tutorial",
     "use_repository_button": True,
     "extra_navbar": "<a rel='license' href='https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh'><img alt='知识共享许可协议' style='border-width:0' src='https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png' /></a>",
@@ -72,7 +73,9 @@ html_theme_options = {
     "show_navbar_depth": 1,
     "use_edit_page_button": True,
     "use_issues_button": True,
-     "announcement": (
+    "use_download_button": False,
+    "extra_footer": "<a>“Minecraft”&nbsp 是 Mojang Synergies AB 的商标，本项目与 Mojang AB 以及 Microsoft Corporation 没有从属关系。</a>",# 麻将的任务罢了）   
+    "announcement": (
         "⚠️受 CloudFlare 及 运营商 网络波动影响，"
         "部分地区加载速度可能较慢，造成不便请您谅解⚠️"
         #banner 公告
@@ -81,7 +84,7 @@ html_theme_options = {
 html_logo = "images/Bookicon.png"#sidebar 上的 Logo
 html_favicon = "images/Bookicon.ico"#浏览器页面图标
 html_title = "联萌社区教程项目"#Logo 下面显示的项目名
-html_last_updated_fmt = ""#自动更新页脚 Last Update 日期
+html_last_updated_fmt = ""#留空自动更新页脚 Last Update 日期 (才不是懒得写)
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
