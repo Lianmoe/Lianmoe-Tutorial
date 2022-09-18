@@ -28,7 +28,7 @@
    :caption: 入门教程
 
    教程 <tutorial/rumen/tutorial.md>
-
+   mod 安装入门 <tutorial/rumen/installing-mods.md>
 ```
 
 ```{toctree}
