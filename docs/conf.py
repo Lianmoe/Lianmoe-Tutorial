@@ -27,15 +27,15 @@ extensions = [
 ]
 
 myst_enable_extensions = [
-    "deflist",
+    #"deflist",
     "colon_fence",
-    "amsmath",
+    #"amsmath",
     "colon_fence",
-    "deflist",
+    #"deflist",
     "dollarmath",
-    "fieldlist",
+    #"fieldlist",
     "html_admonition",
-    "html_image",
+    #"html_image",
     #"linkify",
     "replacements",
     "smartquotes",
@@ -50,6 +50,12 @@ intersphinx_mapping = {
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
 }
 intersphinx_disabled_domains = ['std']
+
+suppress_warnings = [
+    "myst.header",
+    "myst.strikethrough"
+]
+#只要我无视警告，程序就是完美的！
 
 templates_path = ['_templates']
 

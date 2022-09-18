@@ -21,15 +21,15 @@
 
 错误：
 
-> 在LeanCloud上，数据存储是围绕`AVObject`进行的。
+> 在 LeanCloud 上，数据存储是围绕`AVObject`进行的。
 >
-> 在 LeanCloud上，数据存储是围绕`AVObject` 进行的。
+> 在 LeanCloud 上，数据存储是围绕`AVObject` 进行的。
 
 完整的正确用法：
 
 > 在 LeanCloud 上，数据存储是围绕 `AVObject` 进行的。每个 `AVObject` 都包含了与 JSON 兼容的 key-value 对应的数据。数据是 schema-free 的，你不需要在每个 `AVObject` 上提前指定存在哪些键，只要直接设定对应的 key-value 即可。
 
-例外：「豆瓣FM」等产品名词，按照官方所定义的格式书写。
+例外：「豆瓣 FM」等产品名词，按照官方所定义的格式书写。
 
 ### 中文与数字之间需要增加空格
 
@@ -39,9 +39,9 @@
 
 错误：
 
-> 今天出去买菜花了 5000元。
+> 今天出去买菜花了 5000 元。
 >
-> 今天出去买菜花了5000元。
+> 今天出去买菜花了 5000 元。
 
 ### 数字与单位之间需要增加空格
 
@@ -75,9 +75,9 @@
 
 错误：
 
-> 刚刚买了一部 iPhone ，好开心！
+> 刚刚买了一部 iPhone，好开心！
 >
-> 刚刚买了一部 iPhone， 好开心！
+> 刚刚买了一部 iPhone，好开心！
 
 ### 用 `text-spacing` 来挽救？
 
@@ -119,13 +119,13 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 错误：
 
-> 嗨! 你知道嘛? 今天前台的小妹跟我说 "喵" 了哎！
+> 嗨！你知道嘛？今天前台的小妹跟我说 "喵" 了哎！
 >
-> 嗨!你知道嘛?今天前台的小妹跟我说"喵"了哎！
+> 嗨！你知道嘛？今天前台的小妹跟我说"喵"了哎！
 >
-> 核磁共振成像 (NMRI) 是什么原理都不知道? JFGI!
+> 核磁共振成像 (NMRI) 是什么原理都不知道？JFGI!
 >
-> 核磁共振成像(NMRI)是什么原理都不知道?JFGI!
+> 核磁共振成像 (NMRI) 是什么原理都不知道？JFGI!
 
 ### 数字使用半角字符
 
@@ -175,7 +175,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 >
 > 使用 gitHub 登录
 >
-> 使用 gｲんĤЦ8 登录
+> 使用 g ｲんĤЦ8 登录
 >
 > 我们的客户有 github、foursquare、microsoft corporation、google、facebook, inc.。
 >
@@ -185,7 +185,7 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 >
 > 我们的客户有 gitHub、fourSquare、microSoft Corporation、google、faceBook, Inc.。
 >
-> 我们的客户有 gｲんĤЦ8、ｷouЯƧquﾑгє、๓เςг๏ร๏Ŧt ς๏гק๏гคtเ๏ภn、900913、ƒ4ᄃëв๏๏к, IПᄃ.。
+> 我们的客户有 g ｲんĤЦ8、ｷ ouЯƧqu ﾑгє、๓เςг๏ร๏Ŧt ς๏гק๏гคtเ๏ภn、900913、ƒ4 ᄃëв๏๏к, IПᄃ.。
 
 注意：当网页中需要配合整体视觉风格而出现全部大写／小写的情形，HTML 中请使用标淮的大小写规范进行书写；并通过 `text-transform: uppercase;`／`text-transform: lowercase;` 对表现形式进行定义。
 
@@ -207,15 +207,15 @@ CSS Text Module Level 4 的 [`text-spacing`](https://www.w3.org/TR/css-text-4/#t
 
 用法：
 
-> 请 [提交一个 issue](#) 并分配给相关同事。
+> 请 [提交一个 issue](https://github.com/Lianmoe/Lianmoe-Tutorial/issues) 并分配给相关同事。
 >
-> 访问我们网站的最新动态，请 [点击这里](#) 进行订阅！
+> 访问我们网站的最新动态，请 [点击这里]((https://tutorial.lianmoe.cn/zh_CN/latest/)) 进行订阅！
 
 对比用法：
 
-> 请[提交一个 issue](#)并分配给相关同事。
+> 请[提交一个 issue]((https://github.com/Lianmoe/Lianmoe-Tutorial/issues)) 并分配给相关同事。
 >
-> 访问我们网站的最新动态，请[点击这里](#)进行订阅！
+> 访问我们网站的最新动态，请[点击这里](https://tutorial.lianmoe.cn/zh_CN/latest/)进行订阅！
 
 ### 简体中文使用直角引号
 

@@ -10,5 +10,8 @@
    :includehidden:
 
     指引 <guide.md>
+    特殊语法列表 <extension.md>
+    内容提交详细指引 <pr-guide.md>
     中文文案排版指北 <paiban.md>
+    本地部署指北 <local-building.md>
 ```
