@@ -41,7 +41,7 @@
 ```
 
 ```{toctree}
-   :maxdepth: 1
+   :maxdepth: 2
    :includehidden:
    :caption: 共建指南
 
