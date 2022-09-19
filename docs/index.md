@@ -16,11 +16,12 @@
 ```{toctree}
    :maxdepth: 1
    :includehidden:
-   :caption: 序言部分
+   :caption: 前言部分
 
-   教程序言 <tutorial/index.md>
+   项目前言 <Perface.md>
 
 ```
+
 
 ```{toctree}
    :maxdepth: 2
@@ -29,6 +30,7 @@
 
    教程 <tutorial/rumen/tutorial.md>
    mod 安装入门 <tutorial/rumen/installing-mods.md>
+   
 ```
 
 ```{toctree}
