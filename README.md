@@ -9,7 +9,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![KOOK][Kook-shield]][Kook-url]
-[![Documentation Status](https://readthedocs.org/projects/lianmoe-tutorial/badge/?version=latest)](https://lianmoe-tutorial.readthedocs.io/zh_CN/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/lianmoe-tutorial/badge/?version=latest)](https://lianmoe-tutorial.readthedocs.io/zh_CN/latest/?badge=latest&style=for-the-badge)
 
 # Minecraft 教程  
 由社区维护的 Minecraft 教程，目前正在逐步完善中...  
@@ -43,15 +43,15 @@ Gitee 的问题主要在于审核和不稳定（500 错误）
 
 <!-- links -->
 [your-project-path]:Zachery-Liu/Lianmoe-Tutorial
-[contributors-shield]: https://img.shields.io/github/contributors/Zachery-Liu/Lianmoe-Tutorial.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/Zachery-Liu/Lianmoe-Tutorial.svg?style=for-the-badge
 [contributors-url]: https://github.com/Zachery-Liu/Lianmoe-Tutorial/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Zachery-Liu/Lianmoe-Tutorial.svg?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/Zachery-Liu/Lianmoe-Tutorial.svg?style=for-the-badge
 [forks-url]: https://github.com/Zachery-Liu/Lianmoe-Tutorial/network/members
-[stars-shield]: https://img.shields.io/github/stars/Zachery-Liu/Lianmoe-Tutorial.svg?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/Zachery-Liu/Lianmoe-Tutorial.svg?style=for-the-badge
 [stars-url]: https://github.com/Zachery-Liu/Lianmoe-Tutorial/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Zachery-Liu/Lianmoe-Tutorial.svg?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/Zachery-Liu/Lianmoe-Tutorial.svg?style=for-the-badge
 [issues-url]: https://img.shields.io/github/issues/Zachery-Liu/Lianmoe-Tutorial.svg
-[Kook-shield]: https://img.shields.io/static/v1?label=Kook&message=加入交流频道&color=green&style=flat-square
+[Kook-shield]: https://img.shields.io/static/v1?label=Kook&message=加入交流频道&color=green&style=for-the-badge
 [Kook-url]: https://kook.top/wtPZIy
 
 
