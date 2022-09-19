@@ -36,7 +36,7 @@
 
 ## 语法
 
-您在编写内容的过程中可以使用 **Markdown 语法**或 **Rts 语法**，  
+您在编写内容的过程中可以使用 **Markdown 语法**或 **reStructuredText 语法**，  
 当然，您也可以使用 **HTML**。
 
 我们**推荐您使用 Markdown 语法**。
