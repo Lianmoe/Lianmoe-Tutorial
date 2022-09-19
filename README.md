@@ -9,7 +9,8 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![KOOK][Kook-shield]][Kook-url]
-[![Documentation Status](https://readthedocs.org/projects/lianmoe-tutorial/badge/?version=latest)](https://lianmoe-tutorial.readthedocs.io/zh_CN/latest/?badge=latest&style=for-the-badge)
+[![Documentation Status][doc-shield]][doc-url]
+
 
 # Minecraft 教程  
 由社区维护的 Minecraft 教程，目前正在逐步完善中...  
@@ -53,5 +54,7 @@ Gitee 的问题主要在于审核和不稳定（500 错误）
 [issues-url]: https://img.shields.io/github/issues/Zachery-Liu/Lianmoe-Tutorial.svg
 [Kook-shield]: https://img.shields.io/static/v1?label=Kook&message=加入交流频道&color=green&style=for-the-badge
 [Kook-url]: https://kook.top/wtPZIy
+[doc-shield]: https://readthedocs.org/projects/lianmoe-tutorial/badge/?version=latest&style=for-the-badge
+[doc-url]: https://tutorial.lianmoe.cn/zh_CN/latest/?badge=latest
 
 
