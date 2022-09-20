@@ -85,7 +85,9 @@ html_logo = "images/Bookicon.png"#sidebar 上的 Logo
 html_favicon = "images/Bookicon.ico"#浏览器页面图标
 html_title = "联萌社区教程项目"#Logo 下面显示的项目名
 html_last_updated_fmt = ""#留空自动更新页脚 Last Update 日期 (才不是懒得写)
-html_extra_path = "robots.txt"
+html_extra_path = [
+    'robots.txt'
+]
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
