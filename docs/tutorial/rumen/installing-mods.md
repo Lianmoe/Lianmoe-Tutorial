@@ -1,4 +1,7 @@
 # mod 安装入门
+````{warning}
+此页面尚未编写完毕，请暂时不要参考此页面的内容。
+````
 本篇教程将教您安装 mod API (为了方便理解，下文将使用 mod 环境来代替) 的详细过程。  
 ````{note}
 如果您已了解 Forge/Fabric/Optifine/Liteloader 等的安装方法，您可以跳过本篇教程。
