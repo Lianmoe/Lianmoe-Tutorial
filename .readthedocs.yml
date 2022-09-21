@@ -15,10 +15,12 @@ sphinx:
 
 # Optionally build your docs in additional formats such as PDF
 formats:
-  - pdf
+ #- pdf
 
 # Optionally set the version of Python and requirements required to build your docs
-python:
-  version: 3.7
-  install:
-    - requirements: docs/requirements.txt #requirements 文件位置
+build:
+  os: ubuntu-22.04 #用ubuntu构建
+  python:
+    version: 3.10  #改成3.10
+    install:
+      - requirements: docs/requirements.txt #requirements 文件位置
