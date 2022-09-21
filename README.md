@@ -38,6 +38,23 @@ Gitee 的问题主要在于审核和不稳定（500 错误）
 ## 贡献者名单
 
 <!-- readme: contributors -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/Zachery-Liu">
+            <img src="https://avatars.githubusercontent.com/u/61861732?v=4" width="100;" alt="Zachery-Liu"/>
+            <br />
+            <sub><b>Zachery Liu</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/Yizhouuu">
+            <img src="https://avatars.githubusercontent.com/u/107225762?v=4" width="100;" alt="Yizhouuu"/>
+            <br />
+            <sub><b>壹粥</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: contributors -end -->
 
 ## 协议
