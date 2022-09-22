@@ -23,7 +23,7 @@
 在此之前，您应该先 Fork 我们的仓库。
 
 ````{seealso}
-您可以在这里查看 [如何 Fork](暂无)
+您可以在这里查看 [如何 Fork](https://tutorial.lianmoe.cn/zh_CN/latest/contributing/pr-guide.html#fork)
 ````
 
 在您 Fork 完成之后，您就可以打开您的 GitHub Desktop 软件。  
