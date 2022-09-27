@@ -33,7 +33,7 @@ Gitee 的问题主要在于审核和不稳定（500 错误）
 文章可以使用 Markdown 或 reStructuredText 语言，这是一种标记语言，简单且实用，不会这两种语法的写手也不必担心，<br>
 可以使用[Stackedit 在线编辑器](https://stackedit.cn/) ，像编写 Word 文档一样按按钮编写 Markdown 即可  
 
-具体的教程编写要求等请参考 [内容提交指南](https://tutorial.lianmoe.cn/zh_CN/latest/contribute-firstpage.html) 。
+具体的教程编写要求等请参考 [内容提交指南](https://tutorial.lianmoe.cn/zh_CN/latest/contributing/index.html) 。
 
 ## 贡献者名单
 
