@@ -28,12 +28,6 @@
 
 > YuanBanHongShi.md<br>
 
-
-
-````{tip}
-还是不知道该怎么该做？您也可以参考 [**站外内容**](https://learnku.com/docs/guide/wiki-composing/3959) 。
-````
-
 ***
 
 ## 语法
