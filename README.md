@@ -36,7 +36,11 @@ Gitee 的问题主要在于审核和不稳定（500 错误）
 
 具体的教程编写要求等请参考 [内容提交指南](https://tutorial.lianmoe.cn/zh_CN/latest/contributing/index.html) 。
 
+如果您在两个平台均有帐号，建议您使用同一个邮箱并且将邮箱保密功能关闭，这样在两个平台上均能留下您的帐号信息。
+
 ## 贡献者名单
+如果您没能出现在本名单上，请您联系项目管理员！
+（此部分内容仅展示 GitHub 帐号，Gitee 用户可能无法展示）
 
 <!-- readme: contributors -start -->
 <table>
