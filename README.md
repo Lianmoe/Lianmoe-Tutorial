@@ -40,7 +40,7 @@ Gitee 的问题主要在于审核和不稳定（500 错误）
 
 ## 贡献者名单
 如果您没能出现在本名单上，请您联系项目管理员！
-（此部分内容仅展示 GitHub 帐号，Gitee 用户可能无法展示）
+（此部分内容由 GitHub Action 自动生成，Gitee 用户可能无法展示）
 
 <!-- readme: contributors -start -->
 <table>
