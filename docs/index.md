@@ -37,9 +37,9 @@
 ```{toctree}
    :maxdepth: 2
    :includehidden:
-   :caption: 进阶教程
+   :caption: 其他教程
 
-   教程 <tutorial/jinjie/tutorial.md>
+   翻译教程 <tutorial/misc/crowdin.md>
 
 ```
 
