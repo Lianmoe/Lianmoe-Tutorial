@@ -12,7 +12,8 @@ Crowdin 是一个出色的本地化平台，非常适合团队翻译项目，Min
 
 [直接访问Crowdin翻译空间 >>](https://zh.crowdin.com/project/LianmengTranslate/zh-CN)
 
-使用比较简单，自己摸索吧，先不写了
+![主页部分](https://s1.ax1x.com/2022/10/05/xlbP58.png)
+![编程器部分](https://s1.ax1x.com/2022/10/05/xlHb4O.png)
 
 ---
 
