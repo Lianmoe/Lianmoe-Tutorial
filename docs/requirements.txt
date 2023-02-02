@@ -6,3 +6,4 @@ sphinxcontrib-mermaid
 sphinx-tabs
 sphinx-togglebutton
 jinja2 == 2.10.1
+markupsafe == 2.0.1
