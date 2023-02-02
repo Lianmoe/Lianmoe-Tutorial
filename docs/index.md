@@ -64,7 +64,7 @@
 ## 联系我们
 
 
-欢迎您加入我们的 [KOOK](https://kook.top/wtPZIy) 频道。
+欢迎您[加入我们](https://www.lianmoe.cn/joinus)。
 
 
 <br>
