@@ -5,3 +5,4 @@ linkify-it-py
 sphinxcontrib-mermaid
 sphinx-tabs
 sphinx-togglebutton
+jinja2 == 2.10.1
