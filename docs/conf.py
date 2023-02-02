@@ -1,10 +1,11 @@
 # Configuration file for the Sphinx documentation builder.
+# 配置文件贡献者勿动！
 
 # -- Project information
 
 project = '联萌社区教程项目'
 #项目名
-copyright = '2022 - 2023，联萌及所有贡献者，保留所有权利。 '
+copyright = '2022 - 2023,联萌及所有贡献者,保留所有权利 '
 #社区项目版权当然是属于所有人咯
 author = '社区贡献者们'
 
