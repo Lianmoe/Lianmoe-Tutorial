@@ -77,7 +77,7 @@ html_theme_options = {
             "type": "fontawesome",
         }
    ],
-    "navbar_end": ["extra-navbar.html"],
+    "primary_sidebar_end": ["extra-navbar.html"],
     #"extra_navbar": "<a rel='license' href='https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh'><img alt='知识共享许可协议' style='border-width:0' src='https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png' /></a>",
     "home_page_in_toc": True,
     "show_navbar_depth": 1,
