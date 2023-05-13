@@ -52,17 +52,18 @@
 安装完成之后，使用 ```Windows 徽标键+X```，选择 ```Windows PowerShell (管理员)```。
 
 在打开的命令行中输入：
-```
+
+```bash
 pip install -U sphinx
 ```
 
 如果您在中国大陆地区，您也可以使用清华镜像源来加速安装：
-```
+```bash
 pip install -U sphinx -i https://pypi.tuna.tsinghua.edu.cn/simple
 ```
 
 安装完成之后，使用版本查询来检查安装是否成功：
-```
+```bash
 sphinx-build --version
 ```
 如果您得到的结果是 ```sphinx-build X.X.X```，即为安装成功。
