@@ -69,7 +69,15 @@ html_theme_options = {
     "repository_branch": "master",
     "repository_url": "https://github.com/Lianmoe/Lianmoe-Tutorial",
     "use_repository_button": True,
-    "extra_navbar": "<a rel='license' href='https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh'><img alt='知识共享许可协议' style='border-width:0' src='https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png' /></a>",
+    "icon_links": [
+        {
+            "name": "知乎",
+            "url": "https://www.zhihu.com/column/c_1234517495362920448",
+            "icon": "fa-brands fa-zhihu",
+            "type": "fontawesome",
+        }
+   ]
+    #"extra_navbar": "<a rel='license' href='https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh'><img alt='知识共享许可协议' style='border-width:0' src='https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png' /></a>",
     "home_page_in_toc": True,
     "show_navbar_depth": 1,
     "use_edit_page_button": True,
