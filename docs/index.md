@@ -31,6 +31,7 @@
 
    教程 <tutorial/rumen/tutorial.md>
    mod 安装入门 <tutorial/rumen/installing-mods.md>
+   获取日志文件 <tutorial/rumen/log.md>
    
 ```
 

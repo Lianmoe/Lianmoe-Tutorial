@@ -27,7 +27,7 @@
     <a href="https://lianmoe-tutorial.readthedocs.io/zh_CN/latest/"><strong>直接前往教程文档 »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Lianmoe/Lianmoe-Tutorial">查看Demo</a>
+    <a href="https://github.com/Lianmoe/Lianmoe-Tutorial">查看 Demo</a>
     ·
     <a href="https://github.com/Lianmoe/Lianmoe-Tutorial/issues">报告文档中的问题</a>
     ·
@@ -37,19 +37,22 @@
 </p>
 
 
- 本篇README.md面向读者、社区内容贡献者及开发者
+ 本篇 README.md 面向读者、社区内容贡献者及开发者
  
 ## 目录
 
-- [上手指南](#上手指南)
-  - [配置要求](#配置要求)
-  - [部署](#部署)
-- [文件目录说明](#文件目录说明)
-- [贡献者](#贡献者)
-  - [如何参与开源项目](#如何参与开源项目)
-- [版本控制](#版本控制)
-- [项目管理员](#项目管理员)
-- [鸣谢](#鸣谢)
+- [联萌社区教程项目](#联萌社区教程项目)
+  - [目录](#目录)
+    - [上手指南](#上手指南)
+          - [配置要求](#配置要求)
+          - [贡献内容](#贡献内容)
+    - [部署](#部署)
+    - [文件目录说明](#文件目录说明)
+    - [贡献者](#贡献者)
+      - [如何参与开源项目](#如何参与开源项目)
+    - [版本控制](#版本控制)
+    - [项目管理员](#项目管理员)
+    - [鸣谢](#鸣谢)
 
 ### 上手指南
 
@@ -69,7 +72,7 @@
 
 ### 部署
 
-本项目使用ReadTheDocs部署，如有本地部署需要请参考
+本项目使用 ReadTheDocs 部署，如有本地部署需要请参考
 <a href="https://www.sphinx-doc.org/en/master/usage/installation.html">Installing Sphinx</a> 。
 
 
@@ -110,7 +113,7 @@ filetree
 
 ### 版本控制
 
-该项目使用Git进行版本管理。您可以在repository参看当前可用版本。
+该项目使用 Git 进行版本管理。您可以在 repository 参看当前可用版本。
 
 ### 项目管理员
 

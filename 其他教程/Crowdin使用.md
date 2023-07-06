@@ -6,7 +6,7 @@ Crowdin 是一个出色的本地化平台，非常适合团队翻译项目，Min
 [联萌快捷工作台 ](https://yizhouuu.github.io/)
 找到 联萌翻译空间 的卡片，点击进入<br>
 国内访问较慢，翻译人员可找壹粥获取梯子<br>
-[直接访问Crowdin翻译空间](https://zh.crowdin.com/project/LianmengTranslate/zh-CN)
+[直接访问 Crowdin 翻译空间](https://zh.crowdin.com/project/LianmengTranslate/zh-CN)
 
 使用比较简单，自己摸索吧，先不写了
 
@@ -40,7 +40,7 @@ Crowdin 是一个出色的本地化平台，非常适合团队翻译项目，Min
 ==生硬翻译==：将原版文本逐字翻译过来，因为中英文语法的巨大差异，这样会导致文本很不流畅。只要能正确表达原文意义就可以了；
 
 ==翻译不灵活==：在联萌本地化参与的 alloyed 模组的翻译中，某人修改我团队译文“铁制钓鱼竿”为“铁钓竿”，理由是原版的{忘了}，我们一般称之为学院派 ~~（弱智）~~（如果遇到社区外恶意译者请禁止其修改，找壹粥或其他人处理）；
-> Written with [StackEdit中文版](https://stackedit.cn/).
+> Written with [StackEdit 中文版](https://stackedit.cn/).
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbODExMDAwNDk3XX0=
 -->
