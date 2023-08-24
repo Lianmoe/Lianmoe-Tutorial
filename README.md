@@ -1,6 +1,7 @@
-
+# === 项目转移至 [Gitee][Gitee] === 
 
 # 联萌社区教程项目
+
 
 <!-- PROJECT SHIELDS -->
 
@@ -84,5 +85,6 @@ Gitee 的问题主要在于审核和不稳定（500 错误）
 [Kook-url]: https://kook.top/wtPZIy
 [doc-shield]: https://readthedocs.org/projects/lianmoe-tutorial/badge/?version=latest&style=for-the-badge
 [doc-url]: https://tutorial.lianmoe.cn/zh_CN/latest/?badge=latest
+[Gitee]: https://gitee.com/community-tut/minecraft-community-tut
 
 
